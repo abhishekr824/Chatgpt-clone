@@ -1,6 +1,6 @@
 # Chatgpt-clone
 
-Build Yo'own ChatGPT with OpenAI API 
+Build Your own ChatGPT with OpenAI API 
 
 Instructions:
 
