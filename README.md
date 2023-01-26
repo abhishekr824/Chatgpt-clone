@@ -4,10 +4,10 @@ Build Yo'own ChatGPT with OpenAI API
 
 Instructions:
 
-Get your OpenAI API key here - https://beta.openai.com/account/api-keys
+1.Get your OpenAI API key here - https://beta.openai.com/account/api-keys
 
-Replace that key in the app.py code
+2.Replace that key in the app.py code
 
-Install the required libraries pip install -r requirements.txt
+3.Install the required libraries pip install -r requirements.txt
 
-run python app.py
+4.run python app.py
